@@ -338,7 +338,7 @@ I enjoy understanding how systems work, how they fail, and how to make them more
 
 
 
-Building secure software, researching vulnerabilities, contributing to open source, and continuously learning.
+ researching vulnerabilities, contributing to open source, and continuously learning.
 
 
 
