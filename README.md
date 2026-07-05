@@ -119,10 +119,7 @@ I enjoy creating software that is fast, clean, secure, and enjoyable to use.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlguevaraSec&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlguevaraSec&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlguevaraSec&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
