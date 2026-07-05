@@ -1,351 +1,168 @@
+<!-- ========================================================= -->
 
+<!--                       GitHub Profile                      -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
+<img src="https://i.ibb.co/q384NX8M/0xalguevarahor.png" width="170"/>
 
+# AlguevaraSec
 
-# ⚔️ AlguevaraSec
+### Building Modern Software • Offensive Security • Open Source
 
-
-
-### Offensive Security • Software Engineering • Open Source
-
-
-
-> *"Finding weaknesses before attackers do."*
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=850&lines=Offensive+Security;Bug+Bounty+Hunter;Security+Researcher;Backend+Developer;Flutter+Developer;Automation+Engineer;Open+Source+Contributor;Always+Learning..." />
-
-
+> *"Build. Break. Learn. Repeat."*
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Offensive+Security;Backend+Developer;Rust+%7C+Go+%7C+Flutter;Desktop+Applications;Developer+Tools;Open+Source+Maintainer;Always+Building..." />
 
+<br>
 
-<img src="https://img.shields.io/badge/Offensive%20Security-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Linux-Power%20User-black?style=for-the-badge"/>
-
-
-
-</div>
-
-
-
----
-
-
-
-# 👨‍💻 About Me
-
-
-
-I'm a passionate **Cybersecurity Researcher** and **Software Engineer** who enjoys building secure software, discovering vulnerabilities, and creating modern automation tools.
-
-
-
-My interests span offensive security, backend engineering, Flutter development, infrastructure, UI/UX, and open-source software.
-
-
-
-I enjoy understanding how systems work, how they fail, and how to make them more secure and efficient.
-
-
-
----
-
-
-
-# 💻 Tech Stack
-
-
-
-### 🧠 Languages
-
-
-
-<p align="center">
-
-
-
-<img src="https://skillicons.dev/icons?i=python,go,java,lua,js,cpp,dart,bash,html,css&perline=10"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-### 🚀 Frameworks & Development
-
-
-
-<p align="center">
-
-
-
-<img src="https://skillicons.dev/icons?i=fastapi,flutter,react,nodejs&perline=8"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-### 🛡 Operating Systems & Infrastructure
-
-
-
-<p align="center">
-
-
-
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,nginx,git,github&perline=8"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-### ☁️ Databases & Tools
-
-
-
-<p align="center">
-
-
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,vscode,figma,androidstudio&perline=8"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-# ⚙️ Expertise
-
-
-
-<p align="center">
-
-
-
-<img src="https://img.shields.io/badge/Offensive%20Security-red?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/Bug%20Bounty-orange?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/Web%20Security-blue?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/API%20Security-00599C?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/Reverse%20Engineering-purple?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/Automation-success?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/Backend%20Development-0A66C2?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/UI%20%2F%20UX-ff69b4?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge"/>
-
-
+<p>
 
 <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Software%20Engineering-2563EB?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Offensive%20Security-DC2626?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Performance%20Engineering-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge"/>
 
-
-</p>
-
-
-
----
-
-
-
-# 📈 GitHub Statistics
-
-
-
-<p align="center">
-
-
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=AlguevaraSec&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlguevaraSec&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge"/>
 
 </p>
-
-
-
----
-
-
-
-# 🔥 Contribution Streak
-
-
-
-<p align="center">
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlguevaraSec&theme=tokyonight&hide_border=true"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-# 📊 Current Focus
-
-
-
-<p align="center">
-
-
-
-<img src="https://img.shields.io/badge/Offensive%20Security-red?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/Bug%20Bounty-orange?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/Open%20Source-success?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/Automation-blue?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/API%20Security-00599C?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/UI%2FUX-ff69b4?style=flat-square"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-# 🛠 Daily Tools
-
-
-
-<p align="center">
-
-
-
-<img src="https://skillicons.dev/icons?i=python,go,java,lua,fastapi,flutter,linux,kali,docker,git,github,postgres,mysql,redis,androidstudio,vscode,figma,bash&perline=9"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-<div align="center">
-
-
-
-## ⚡ "Break • Learn • Secure"
-
-
-
-*"Security is not a product—it's a continuous process."*
-
-
-
----
-
-
-
- researching vulnerabilities, contributing to open source, and continuously learning.
-
-
-
-⭐ **If you enjoy my work, consider following me and starring my repositories.**
-
-
 
 </div>
 
-```remove fetured projects
+---
+
+# About
+
+I'm a software engineer passionate about building modern applications, backend systems, automation tools, and security-focused software.
+
+My interests include:
+
+* ⚡ Native Desktop Applications
+* 🦀 Rust Development
+* 🔒 Offensive Security
+* 🌐 Backend Engineering
+* 📱 Flutter Applications
+* 🤖 Automation & Developer Tools
+* 🎨 Modern UI / UX
+* ❤️ Open Source
+
+I enjoy creating software that is fast, clean, secure, and enjoyable to use.
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,go,python,cpp,js,ts,dart,bash,java,lua&perline=10"/>
+
+</p>
+
+---
+
+### Frameworks
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tauri,react,vite,flutter,fastapi,nodejs&perline=8"/>
+
+</p>
+
+---
+
+### Infrastructure
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,cloudflare&perline=8"/>
+
+</p>
+
+---
+
+### Databases & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,vscode,figma,androidstudio&perline=8"/>
+
+</p>
+
+---
+
+# Current Focus
+
+<div align="center">
+
+| Building         | Learning    | Exploring      |
+| ---------------- | ----------- | -------------- |
+| 🖥️ Desktop Apps | 🦀 Rust     | ⚡ Performance  |
+| 🌐 Backend APIs  | 🔒 Security | 🤖 Automation  |
+| 📱 Flutter       | 🎨 UI/UX    | 📦 Open Source |
+
+</div>
+
+---
+
+# GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlguevaraSec&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlguevaraSec&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlguevaraSec&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Daily Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,tauri,go,python,react,flutter,fastapi,nodejs,linux,docker,postgres,mysql,redis,bash,git,github,vscode,figma&perline=9"/>
+
+</div>
+
+---
+
+# Philosophy
+
+> **Software should be fast, secure, elegant, and built to last.**
+
+I enjoy solving difficult engineering problems, experimenting with new technologies, contributing to open source, and continuously improving my skills through hands-on projects.
+
+---
+
+<div align="center">
+
+### Thanks for stopping by 👋
+
+If you enjoy my work, consider following me and ⭐ starring a repository.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AlguevaraSec&style=for-the-badge&color=8b5cf6"/>
+
+</div>
